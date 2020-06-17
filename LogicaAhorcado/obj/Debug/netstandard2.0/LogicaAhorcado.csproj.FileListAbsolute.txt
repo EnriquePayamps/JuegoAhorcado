@@ -1,0 +1,8 @@
+C:\Users\Enrique Payamps\source\repos\JuegoDelAhorcado\LogicaAhorcado\obj\Debug\netstandard2.0\LogicaAhorcado.csprojAssemblyReference.cache
+C:\Users\Enrique Payamps\source\repos\JuegoDelAhorcado\LogicaAhorcado\obj\Debug\netstandard2.0\LogicaAhorcado.AssemblyInfoInputs.cache
+C:\Users\Enrique Payamps\source\repos\JuegoDelAhorcado\LogicaAhorcado\obj\Debug\netstandard2.0\LogicaAhorcado.AssemblyInfo.cs
+C:\Users\Enrique Payamps\source\repos\JuegoDelAhorcado\LogicaAhorcado\bin\Debug\netstandard2.0\LogicaAhorcado.deps.json
+C:\Users\Enrique Payamps\source\repos\JuegoDelAhorcado\LogicaAhorcado\bin\Debug\netstandard2.0\LogicaAhorcado.dll
+C:\Users\Enrique Payamps\source\repos\JuegoDelAhorcado\LogicaAhorcado\bin\Debug\netstandard2.0\LogicaAhorcado.pdb
+C:\Users\Enrique Payamps\source\repos\JuegoDelAhorcado\LogicaAhorcado\obj\Debug\netstandard2.0\LogicaAhorcado.dll
+C:\Users\Enrique Payamps\source\repos\JuegoDelAhorcado\LogicaAhorcado\obj\Debug\netstandard2.0\LogicaAhorcado.pdb
